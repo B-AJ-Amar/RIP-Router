@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ripConfig>
-    <interface hosts="router*" names="eth*" metric="1" mode="splitHorizon"/>
-    <timers
-        routeTimeout="180s"
-        routeGarbageCollection="120s"
-        updateInterval="30s"
-    />
-</ripConfig>
